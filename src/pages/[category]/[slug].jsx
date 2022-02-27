@@ -228,11 +228,11 @@ export async function getStaticProps(context) {
   const { slug } = context.params;  
 
   const response = await Promise.all([
-    api.get(`posts/${slug}`),
+    api.get(`posts/?slug=${slug}`),
     api.get('categories'),
   ]);
 
-  const article = response[0].data;
+  const article = response[0].data[0];
   const categories = response[1].data;
 
   return {
