@@ -4,7 +4,7 @@ Frontend project for blog using NextJS and TailwindCSS. The blog uses the `getSt
 *Leia em português: [Português Brasileiro](README.md).*
 
 ## Application Preview
-You can see and test the application in [this link](link)!
+You can see and test the application in [this link](https://blog-nextjs-tailwindcss.vercel.app/)!
 
 ## Main Technologies and Libraries used:
 - [NextJS](https://nextjs.org/): A React-based Framework to create web applications;

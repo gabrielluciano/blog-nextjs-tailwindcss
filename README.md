@@ -4,7 +4,7 @@ Projeto de frontend para blog usando NextJS e TailwindCSS. O blog utiliza as fun
 *Read this in English: [English](README.en.md).*
 
 ## Preview da Aplicação
-Você pode ver e testar a aplicação [neste link](link)!
+Você pode ver e testar a aplicação [neste link](https://blog-nextjs-tailwindcss.vercel.app/)!
 
 ## Principais Tecnologias e Bibliotecas utilizadas:
 - [NextJS](https://nextjs.org/): Framework baseasdo em React para criar aplicações web;
