@@ -12,6 +12,10 @@ You can see and test the application in [this link](https://blog-nextjs-tailwind
 - [React Icons](https://react-icons.github.io/react-icons/): Icon library for ReactJS;
 - [Axios](https://axios-http.com/docs/intro): Isomorphic library (works in both NodeJS and browser) to perform HTTP requests.
 
+## Figma Design
+
+Link to the design made in Figma: [Blog NextJS and TailwindCSS](https://www.figma.com/file/oiawJY00hrcmtxQN8KLv8c/Blog-NextJS-e-TailwindCSS)
+
 ## Usage
 First, you must have [NodeJS](https://nodejs.org/en/download/) and the [Yarn](https://classic.yarnpkg.com/en/docs/install) package manager installed on your machine.
 

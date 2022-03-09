@@ -12,6 +12,9 @@ Você pode ver e testar a aplicação [neste link](https://blog-nextjs-tailwindc
 - [React Icons](https://react-icons.github.io/react-icons/): Biblioteca de ícones para ReactJS;
 - [Axios](https://axios-http.com/docs/intro): Biblioteca isomórfica (funciona tanto no NodeJS como no browser) para realizar requisições HTTP.
 
+## Design no Figma
+Link para o design feito no Figma: [Blog NextJS e TailwindCSS](https://www.figma.com/file/oiawJY00hrcmtxQN8KLv8c/Blog-NextJS-e-TailwindCSS)
+
 ## Utilização
 Primeiro é necessário ter instalado o [NodeJS](https://nodejs.org/en/download/) e o gerenciador de pacotes [Yarn](https://classic.yarnpkg.com/en/docs/install).
 
